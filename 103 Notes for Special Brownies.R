@@ -1,0 +1,15 @@
+number_of_cpcs=c(300,53,)
+state.name
+state.abb
+number_of_cpcs=c(state.name,state.abb)
+number_of_cpcs
+number=c(30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30)
+number_of_cpcs=cbind(state.name,state.abb)
+number_of_cpcs
+number_of_cpcs$number_to_select=state.abb
+length(number)
+number_of_cpcs=cbind(state.name,as.integer(number))
+matrix=cbind(number)
+ten=ifelse(number*.1
+ten
+sample(35,3)
